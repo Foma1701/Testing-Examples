@@ -1,3 +1,3 @@
 # Баг-репорты
 ## Содержание:
-- [Баг-репорты для Wildberries](/bug-reports/wildberries)
+- [Баг-репорты для OZON](/bug-reports/ozon)
