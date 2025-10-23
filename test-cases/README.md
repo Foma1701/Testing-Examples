@@ -2,6 +2,6 @@
 
 ## Содержание:
 
-- [Тест-кейсы для формы поиска](/test-cases/search)
-- [Тест-кейсы для корзины товаров](/test-cases/cart) 
-- [Тест-кейсы для авторизации](/test-cases/auth)
+- [Тест-кейсы для формы поиска](test-cases-search-wildberries.md)
+- [Тест-кейсы для корзины товаров](test-cases-cart-yandex-market.md)
+- [Тест-кейсы для авторизации](test-cases-login-form.md)
